@@ -1,0 +1,17 @@
+{
+  "name": "clerk-auth-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedram",
+  "license": "ISC",
+  "dependencies": {
+    "@clerk/clerk-sdk-node": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
